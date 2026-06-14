@@ -121,7 +121,6 @@ app/Commands/
   CtfSession.php     # resume session, dump status
   CtfSolve.php       # replay solved-challenge payloads
   CtfEnumerate.php   # ID enumeration / anomaly detection
-  CtfLogin.php       # Challenge #1 brute-force probe
 config/ctf.php       # target + player configuration
 ```
 
